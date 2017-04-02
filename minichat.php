@@ -17,7 +17,7 @@
 		</label></br>
 		<label for="Message">Message: </label>
 		<textarea form ="minichat" name="message"  cols="90" wrap="soft"></textarea></br>
-		<input type="submit" value="Envoyer">
+		<input type="submit" value="Envoyer" id='input'>
 	</fieldset>
 </form>	
 

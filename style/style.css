@@ -5,15 +5,14 @@ body form {
     flex-direction: column;
     margin: auto;
     max-width: 50%;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
     background-color: lightgrey;  
     color: grey;
     border-color: gray; }
     body form fieldset legend {
       background-color: grey;
       color: lightgrey; }
+
+
 .textechat{
 
     border: 1px solid lightgray;
